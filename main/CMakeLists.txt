@@ -27,7 +27,7 @@ OPTION(Z_AXIS_SQUARED "Compile with auto-squared Z axis" OFF)
 
 # Driver options
 OPTION(NOPROBE "Compile without probe support" OFF)
-OPTION(SafetyDoor "Safety door enable" OFF)
+OPTION(SafetyDoor "Safety door enable" ON)
 OPTION(MPGMode "MPG mode" OFF)
 OPTION(I2SStepping "Use I2S Stepping" OFF)
 
